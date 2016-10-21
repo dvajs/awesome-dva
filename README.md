@@ -15,7 +15,7 @@
 - [Toturial](https://github.com/dvajs/dva-docs/blob/master/v1/zh-cn/tutorial/01-%E6%A6%82%E8%A6%81.md) (in chinese only)
 - [Knowledge Map](https://github.com/dvajs/dva-knowledgemap) - Knowledge map for dva.
 
-## CLI & GUI
+## CLI
 
 - [dva-cli](https://github.com/dvajs/dva-cli) - The dva command line utility, including commands like `init`, `new` and `generate`.
 - [dva-ast](https://github.com/dvajs/dva-ast) - Dva static analysis based on javascript ast.
@@ -38,17 +38,10 @@
 
 ## Articles
 
-**Practical Projects with dva and antd**
-https://ant.design/docs/react/practical-projects
-
-**从 0 开始实现 react 版本的 hackernews (基于 dva)**
-https://github.com/sorrycc/blog/issues/9
-
-**支付宝前端应用架构的发展和选择: 从 roof 到 redux 再到 dva**
-https://github.com/sorrycc/blog/issues/6
-
-**dva 介绍 (Why and What)**
-https://github.com/dvajs/dva/issues/1
+- [Practical Projects with dva and antd](https://ant.design/docs/react/practical-projects)
+- [从 0 开始实现 react 版本的 hackernews (基于 dva)](https://github.com/sorrycc/blog/issues/9)
+- [支付宝前端应用架构的发展和选择: 从 roof 到 redux 再到 dva](https://github.com/sorrycc/blog/issues/6)
+- [dva 介绍 (Why and What)](https://github.com/dvajs/dva/issues/1)
 
 ## License
 
