@@ -12,7 +12,7 @@
 - [Getting Started](https://github.com/dvajs/dva-docs/blob/master/v1/en-us/getting-started.md)
 - [API](https://github.com/dvajs/dva#api)
 - [Concepts](https://github.com/dvajs/dva-docs/blob/master/v1/en-us/concepts.md)
-- [Toturial](https://github.com/dvajs/dva-docs/blob/master/v1/zh-cn/tutorial/01-%E6%A6%82%E8%A6%81.md) (in chinese only)
+- [Tutorial](https://github.com/dvajs/dva-docs/blob/master/v1/zh-cn/tutorial/01-%E6%A6%82%E8%A6%81.md) (in chinese only)
 - [Knowledge Map](https://github.com/dvajs/dva-knowledgemap) - Knowledge map for dva. (in chinese only)
 
 ## CLI
